@@ -1,0 +1,2 @@
+# InferenciaBayesiana
+aprendendo
